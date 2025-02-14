@@ -32,7 +32,9 @@ To set up this project on your local machine, make sure you have the following i
 
 ### Steps to Run:
 
-1. **Change directory client side**:
+1. **Add .env file with credentials into api folder**:
+
+2. **Change directory client side**:
 
    Open a terminal inside VS Code and navigate to the project directory:
 
@@ -40,7 +42,7 @@ To set up this project on your local machine, make sure you have the following i
    cd client
 ```
 
-2. **Install Dependencies**:
+3. **Install Dependencies**:
 
 ```bash
    npm install
@@ -52,7 +54,7 @@ To set up this project on your local machine, make sure you have the following i
    bun
 ```
 
-3. **Run client side**:
+4. **Run client side**:
 
 ```bash
    npm start
@@ -64,7 +66,7 @@ To set up this project on your local machine, make sure you have the following i
    bun start
 ```
 
-4. **Change directory server side**:
+5. **Change directory server side**:
 
    Open a new terminal inside VS Code and navigate to the project directory:
 
@@ -72,7 +74,7 @@ To set up this project on your local machine, make sure you have the following i
    cd api
 ```
 
-5. **Install Dependencies**:
+6. **Install Dependencies**:
 
 ```bash
    npm install
@@ -84,7 +86,7 @@ To set up this project on your local machine, make sure you have the following i
    bun
 ```
 
-6. **Run server side**:
+7. **Run server side**:
 
 ```bash
    npm start
